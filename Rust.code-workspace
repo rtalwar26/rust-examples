@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "hello"
+		},
+		{
+			"path": "iron-gcd"
+		},
+		{
+			"path": "node-cpp"
+		},
+		{
+			"path": "n-api-hello"
+		}
+	],
+	"settings": {}
+}
