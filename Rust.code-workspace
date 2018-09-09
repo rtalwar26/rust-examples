@@ -11,7 +11,28 @@
 		},
 		{
 			"path": "n-api-hello"
+		},
+		{
+			"path": "n-api-simple"
+		},
+		{
+			"path": "cmake-hello"
+		},
+		{
+			"path": "node-addon-api-example"
+		},
+		{
+			"path": "node-rust"
+		},
+		{
+			"path": "neon-example"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"files.associations": {
+			"*.marko": "html",
+			"node_api.h": "c",
+			"td_json_client.h": "c"
+		}
+	}
 }
