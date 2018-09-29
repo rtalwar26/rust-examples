@@ -1,0 +1,6 @@
+[package]
+name = "hello-tests"
+version = "0.1.0"
+authors = ["Rajat Talwar <cuterajat26@gmail.com>"]
+
+[dependencies]

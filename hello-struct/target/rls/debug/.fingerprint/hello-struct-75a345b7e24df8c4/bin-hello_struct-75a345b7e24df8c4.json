@@ -1,0 +1,1 @@
+{"rustc":18204830484536976040,"features":"[]","target":2484354274110399096,"profile":3026933032369683551,"path":1036222786711178230,"deps":[],"local":[{"MtimeBased":[[1536914166,789618369],".fingerprint/hello-struct-75a345b7e24df8c4/dep-bin-hello_struct-75a345b7e24df8c4"]}],"rustflags":["--error-format=json"],"epoch":"Epoch2015"}

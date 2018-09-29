@@ -26,6 +26,27 @@
 		},
 		{
 			"path": "neon-example"
+		},
+		{
+			"path": "hello-struct"
+		},
+		{
+			"path": "hello_mod"
+		},
+		{
+			"path": "hello-hashes"
+		},
+		{
+			"path": "hello-errors"
+		},
+		{
+			"path": "hello-traits"
+		},
+		{
+			"path": "hello-tests"
+		},
+		{
+			"path": "minigrep"
 		}
 	],
 	"settings": {
